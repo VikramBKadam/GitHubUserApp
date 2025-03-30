@@ -34,9 +34,19 @@ This app follows the **MVVM (Model-View-ViewModel)** pattern for separation of c
 4. **Display**: The data is displayed in the UI using Jetpack Compose.
 5. **Caching**: The fetched data is saved locally using Room, allowing offline access to user data.
 
+**Demo of App:<br/>**
+
+
+https://github.com/user-attachments/assets/35f32971-6d49-4db9-8bbe-79459af9b5e7
+
+
+
+
 ## Setup Instructions
 
 ### Clone the repository
 
 ```bash
 git clone https://github.com/VikramBKadam/GitHubUserApp.git
+
+
