@@ -28,11 +28,12 @@ This app follows the **MVVM (Model-View-ViewModel)** pattern for separation of c
 
 ## Flow
 
-1. **User Input**: The user enters a GitHub username to search for.
-2. **API Call**: The app makes a network request to the GitHub API using Retrofit to fetch details of the entered user.
+1. **Launch The App**: Launch the app to fetch the users.
+2. **API Call**: The app makes a network request to the GitHub API using Retrofit to fetch users.
 3. **Data Parsing**: The response from the API is parsed and mapped to a `GitHubUser` data class.
 4. **Display**: The data is displayed in the UI using Jetpack Compose.
 5. **Caching**: The fetched data is saved locally using Room, allowing offline access to user data.
+6. **Click on User** Click on user to fetch the user details.
 
 **Demo of App:<br/>**
 
