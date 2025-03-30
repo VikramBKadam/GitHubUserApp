@@ -39,4 +39,4 @@ This app follows the **MVVM (Model-View-ViewModel)** pattern for separation of c
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/GitHubUserApp.git
+git clone https://github.com/VikramBKadam/GitHubUserApp.git
